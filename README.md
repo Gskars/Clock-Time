@@ -2,7 +2,7 @@
 
 A hora é agora!!
 
-![pt.png](pt.png)
+![pt](pt.png)
 
 
 Clock time foi um projeto que aprendi com a professora Shirley Rios, onde é feito a construção de um relógio digital. Tomei a liberdade para alterar algumas coisas como backgrounds, margens, imagem animada, font-zise e responsividade. 
