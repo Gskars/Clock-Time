@@ -1,5 +1,5 @@
    # Clock-Time
-   # A hora é agora
+   <H2> A hora é agora</H2>
 
 
 
@@ -8,7 +8,7 @@
 
 <h3>Clock time foi um projeto que aprendi com a professora Shirley Rios, onde é feito a construção de um relógio digital. Tomei a liberdade para alterar algumas coisas como backgrounds, margens, imagem animada, font-zise e responsividade. </h3>
 
-Segue abaixo o link da aula: https://youtu.be/fX3U8FRPkxg
+SEGUE ABAIXO O LINK DA AULA: https://youtu.be/fX3U8FRPkxg
 
  HOSPEDAGEM DO SITE: https://extraordinary-baklava-e15239.netlify.app/
 # Tecnologias :
