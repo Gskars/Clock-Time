@@ -9,7 +9,7 @@ Clock time foi um projeto que aprendi com a professora Shirley Rios, onde é fei
 
 Segue abaixo o link da aula: https://youtu.be/fX3U8FRPkxg
 
-<h2> HOSPEDAGEM DO SITE</h2> :  
+ HOSPEDAGEM DO SITE:
 # Tecnologias :
 - HTML
 - CSS
