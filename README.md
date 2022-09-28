@@ -13,7 +13,7 @@
 # Tecnologias :
 - HTML
 - CSS
-- GIT E GIHUB
+- GIT E GITHUB
 - JAVASCRIPT
 
 # Contatos:
