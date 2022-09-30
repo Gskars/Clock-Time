@@ -6,6 +6,8 @@
 
  <h2><strong>SEGUE  O LINK DA AULA:</strong></h2> https://youtu.be/fX3U8FRPkxg
 <h2> <strong> HOSPEDAGEM DO SITE:</strong></h2> https://extraordinary-baklava-e15239.netlify.app/
+
+
 # Tecnologias :
 - HTML
 - CSS
