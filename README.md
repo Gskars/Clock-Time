@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/112108655/193358979-63a692c9-208b-41c1
 - JAVASCRIPT
 
 # Contatos:
-- Email: guiScarcazi.dev@outlook.com
+- Email: gscardazi@hotmail.com
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
    
    
