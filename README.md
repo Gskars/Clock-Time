@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/112108655/193358979-63a692c9-208b-41c1
 # Tecnologias:
 - HTML
 - CSS
-- GIT E GITHUB
+- GITHUB
 - JAVASCRIPT
 
 # Contatos:
